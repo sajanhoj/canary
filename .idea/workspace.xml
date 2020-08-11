@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ab4b88b-769f-4b7a-938b-e714d812594f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fvCC5UX4XACVxLQon0cJKBDGwD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/groovy" />
+      <recent name="$PROJECT_DIR$/src/test/resources/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: valid user login with valid credentials (1)">
+    <configuration name="Feature: canary" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/groovy/features/canary.feature" />
+      <option name="GLUE" value="src/test/groovy/steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="twinThreadCanary" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: canary" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: valid user login with valid credentials (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/canary.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="twinThreadCanary" />
+      <option name="NAME_FILTER" value="^valid user login with valid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^valid user login with valid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: valid user login with valid credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: valid user login with valid credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/groovy/features/canary.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="twinThreadCanary" />
+      <option name="NAME_FILTER" value="^valid user login with valid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^valid user login with valid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: valid user login with valid credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: canary" />
+      <item itemvalue="Cucumber Java.Scenario: valid user login with valid credentials" />
+      <item itemvalue="Cucumber Java.Scenario: valid user login with valid credentials (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: valid user login with valid credentials (1)" />
+        <item itemvalue="Cucumber Java.Scenario: valid user login with valid credentials" />
+        <item itemvalue="Cucumber Java.Feature: canary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab4b88b-769f-4b7a-938b-e714d812594f" name="Default Changelist" comment="" />
+      <created>1597089048497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597089048497</updated>
+      <workItem from="1597089056725" duration="13715000" />
+      <workItem from="1597111011755" duration="1084000" />
+      <workItem from="1597121143566" duration="5864000" />
+      <workItem from="1597128947172" duration="5308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="23" key="#Project_Structure" timestamp="1597121351998">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.696@0.23.1280.696" timestamp="1597121351998" />
+    <state x="110" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597121665427">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state x="110" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.696@0.23.1280.696" timestamp="1597121665427" />
+    <state width="1238" height="217" key="GridCell.Tab.0.bottom" timestamp="1597127780535">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state width="1238" height="217" key="GridCell.Tab.0.bottom/0.23.1280.696@0.23.1280.696" timestamp="1597127780535" />
+    <state width="1238" height="217" key="GridCell.Tab.0.center" timestamp="1597127780535">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state width="1238" height="217" key="GridCell.Tab.0.center/0.23.1280.696@0.23.1280.696" timestamp="1597127780535" />
+    <state width="1238" height="217" key="GridCell.Tab.0.left" timestamp="1597127780534">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state width="1238" height="217" key="GridCell.Tab.0.left/0.23.1280.696@0.23.1280.696" timestamp="1597127780534" />
+    <state width="1238" height="217" key="GridCell.Tab.0.right" timestamp="1597127780535">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state width="1238" height="217" key="GridCell.Tab.0.right/0.23.1280.696@0.23.1280.696" timestamp="1597127780535" />
+    <state x="175" y="23" key="SettingsEditor" timestamp="1597111433338">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state x="175" y="23" key="SettingsEditor/0.23.1280.696@0.23.1280.696" timestamp="1597111433338" />
+    <state x="68" y="34" key="new project wizard" timestamp="1597091663107">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state x="68" y="34" key="new project wizard/0.23.1280.696@0.23.1280.696" timestamp="1597091663107" />
+    <state x="454" y="43" width="670" height="676" key="search.everywhere.popup" timestamp="1597122904029">
+      <screen x="0" y="23" width="1280" height="696" />
+    </state>
+    <state x="454" y="43" width="670" height="676" key="search.everywhere.popup/0.23.1280.696@0.23.1280.696" timestamp="1597122904029" />
+  </component>
+</project>
